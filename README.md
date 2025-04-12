@@ -7,6 +7,7 @@
   <a target="_blank" href="https://rizalamin.rf.gd" style="display: inline-block">
     <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
+  <a target="_blank" href="https://www.linkedin.com/in/rizal-amin-maulana" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a target="_blank" href="https://www.instagram.com/rzlam_in" style="display: inline-block"
     ><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"
   /></a>
